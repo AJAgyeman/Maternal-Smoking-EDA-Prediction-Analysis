@@ -1,7 +1,6 @@
 # Maternal-Smoking-EDA-Prediction-Analysis
 An Exploratory Data Analysis on Maternal Smoking dataset and Prediction Analysis using select algorithms or models that could be used to to identify women at high risk of preterm birth.
 <h1 align="center"><code style="background-color: #8c182b;color:white;">Exploratory Data Analysis and Prediction Analysis on Maternal Smoking</code></h1> 
-![Alt text](https://github.com/AJAgyeman/Maternal-Smoking-EDA-Prediction-Analysis/blob/9ed6e684187fffa49a17186ac616ec5c3fcb7370/babyrauchen.png)
 
 <h3><code style="background:#8c182b;color:white">Introduction</code></h3> 
 
